@@ -1,0 +1,5 @@
+# Ignore IDE and unnecessary files
+__pycache__/
+*.pyc
+.idea/
+*.DS_Store
