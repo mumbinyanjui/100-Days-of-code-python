@@ -50,7 +50,7 @@ Build a habit-tracking automation tool that posts data to the Pixela API and vis
 
 
 
-Before running the script, add your Pixela credentials in a `.env` file or set them in your terminal environment:
+Before running the script, add your Pixela credentials in a `.env` file or set them in your terminal environment
 
 
 
