@@ -1,48 +1,48 @@
-\# 🔒 Days 29–30 – Password Manager App
+# 🔒 Days 29–30 – Password Manager App
 
 
 
-\## ✅ Topics Covered
+## ✅ Topics Covered
 
-\### Day 29:
+### Day 29:
 
-\- Building a `Tkinter` GUI for password generation and entry forms
+- Building a `Tkinter` GUI for password generation and entry forms
 
-\- Using `Entry`, `Button`, `Canvas`, and clipboard copy features
+- Using `Entry`, `Button`, `Canvas`, and clipboard copy features
 
 
 
-\### Day 30:
+### Day 30:
 
-\- Storing data securely using JSON file format
+- Storing data securely using JSON file format
 
-\- Handling errors and duplicates with exception handling (`try/except`)
+- Handling errors and duplicates with exception handling (`try/except`)
 
-\- Searching for saved credentials
+- Searching for saved credentials
 
-&nbsp;   
+   
 
-\## 🎯 Mini Project
+## 🎯 Mini Project
 
 A user-friendly Password Manager that:
 
-\- Generates strong passwords with one-click
+- Generates strong passwords with one-click
 
-\- Copies passwords to clipboard
+- Copies passwords to clipboard
 
-\- Saves data as JSON (`website`, `email`, `password`)
+- Saves data as JSON (`website`, `email`, `password`)
 
-\- Looks up saved entries securely
+- Looks up saved entries securely
 
 
 
-\## 🧠 Key Takeaways
+## 🧠 Key Takeaways
 
-\- GUI + backend storage integration
+- GUI + backend storage integration
 
-\- Transitioned from text files to structured JSON storage (safer, searchable)
+- Transitioned from text files to structured JSON storage (safer, searchable)
 
-\- Strengthened error-handling and user feedback logic
+- Strengthened error-handling and user feedback logic
 
 
 
