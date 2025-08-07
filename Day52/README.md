@@ -1,21 +1,37 @@
-# Day 52 – Instagram Follower Bot
+# Day 52 – Instagram Follower Bot 🤖📸
 
-## What I Learned
-- Automating web activities using **Selenium WebDriver**
-- Navigating Instagram’s login flow and managing dynamic pop-ups
-- Implementing auto-follow/unfollow logic based on given criteria
-- Structuring organized code with **Python classes** and exception handling
-- Mimicking human behavior by introducing delays and safety checks
+This project is part of the [#100DaysOfCode](https://github.com/mumbinyanjui/100-Days-of-code-python) challenge based on Angela Yu’s Python Bootcamp.  
+On Day 52, I built an **Instagram Follower Bot** using Python and Selenium.
 
-## Project: Automated Instagram Follower Bot
-### Features:
-- Logs into Instagram using Selenium
-- Searches users via hashtags or search queries
-- Automatically follows or unfollows accounts per set rules
-- Handles login prompts and pop-ups robustly
-- Includes intentional delays and exception handling for safer automation
+## 🚀 Features
 
-## Key Takeaways
-- Built real web automation skills for social media platforms
-- Learned modular programming with Python classes
-- Balanced automation with ethical constraints and human-like behavior
+- ✅ Automates Instagram login using your username and password
+- ✅ Navigates to a competitor or similar account’s followers list
+- ✅ Scrolls through the modal popup to load more followers
+- ✅ Clicks "Follow" buttons on users
+- ✅ Handles modal interruptions (e.g. Canceling “Unfollow” prompts)
+
+## 🛠️ Technologies Used
+
+- Python 🐍
+- Selenium WebDriver 🌐
+- ChromeDriver
+- XPath & CSS Selectors
+
+## 🧠 What I Learned
+
+- Web automation with Selenium
+- Handling dynamic content (modal scrolling using JavaScript execution)
+- Exception handling (`ElementClickInterceptedException`)
+- Navigating complex web UIs with XPath and CSS Selectors
+
+## ⚠️ Disclaimer
+
+> **Important:** Instagram has bot detection mechanisms. Use responsibly and for educational purposes only. Excessive bot use may result in your account being restricted or banned.
+
+## 🔧 Setup Instructions
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/mumbinyanjui/100-Days-of-code-python.git
+   cd day-52
